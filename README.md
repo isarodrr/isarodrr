@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, eu sou a Isabele 👋
 
-<!--
-**isarodrr/isarodrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em
+acessibilidade no desenvolvimento de jogos.
+Acredito que jogos devem ser para todos — e codifico com isso em mente.
 
-Here are some ideas to get you started:
+### 🕹️ Área de atuação
+- Acessibilidade em jogos
+- Desenvolvimento mobile com Flutter
+- UI/UX inclusivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Linguagens
+![PHP](https://img.shields.io/badge/PHP-7A86B8?style=flat&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=flat&logo=flutter&logoColor=white)

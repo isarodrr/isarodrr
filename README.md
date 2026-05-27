@@ -4,9 +4,8 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em
 acessibilidade no desenvolvimento de jogos.
 Acredito que jogos devem ser para todos — e codifico com isso em mente.
 
-### 🕹️ Área de atuação
+### 🕹️ 
 - Acessibilidade em jogos
-- Desenvolvimento mobile com Flutter
 - UI/UX inclusivo
 
 ### 💻 Linguagens
